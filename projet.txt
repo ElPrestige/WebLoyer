@@ -1,10 +1,10 @@
 ProjetLoyer:
 
-
-
-
-
-
+Navbar : 
+   - Login  
+   - Register
+   - Home
+   - Search
 
 Section :
    Programation :
