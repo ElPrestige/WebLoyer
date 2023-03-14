@@ -1,1 +1,8 @@
-css
+#front-page
+{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    width: 100%;
+    height: 100px;
+}
